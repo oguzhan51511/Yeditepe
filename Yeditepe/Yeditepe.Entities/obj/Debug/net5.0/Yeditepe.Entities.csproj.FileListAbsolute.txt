@@ -1,0 +1,15 @@
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.Entities\bin\Debug\net5.0\Yeditepe.Entities.deps.json
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.Entities\bin\Debug\net5.0\Yeditepe.Entities.dll
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.Entities\bin\Debug\net5.0\ref\Yeditepe.Entities.dll
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.Entities\bin\Debug\net5.0\Yeditepe.Entities.pdb
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.Entities\bin\Debug\net5.0\Yeditepe.Core.dll
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.Entities\bin\Debug\net5.0\Yeditepe.Core.pdb
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.Entities\obj\Debug\net5.0\Yeditepe.Entities.csprojAssemblyReference.cache
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.Entities\obj\Debug\net5.0\Yeditepe.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.Entities\obj\Debug\net5.0\Yeditepe.Entities.AssemblyInfoInputs.cache
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.Entities\obj\Debug\net5.0\Yeditepe.Entities.AssemblyInfo.cs
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.Entities\obj\Debug\net5.0\Yeditepe.Entities.csproj.CoreCompileInputs.cache
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.Entities\obj\Debug\net5.0\Yeditepe.Entities.csproj.CopyComplete
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.Entities\obj\Debug\net5.0\Yeditepe.Entities.dll
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.Entities\obj\Debug\net5.0\ref\Yeditepe.Entities.dll
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.Entities\obj\Debug\net5.0\Yeditepe.Entities.pdb

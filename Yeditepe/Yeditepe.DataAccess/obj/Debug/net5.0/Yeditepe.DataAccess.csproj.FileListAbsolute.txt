@@ -1,0 +1,17 @@
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.DataAccess\bin\Debug\net5.0\Yeditepe.DataAccess.deps.json
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.DataAccess\bin\Debug\net5.0\Yeditepe.DataAccess.dll
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.DataAccess\bin\Debug\net5.0\ref\Yeditepe.DataAccess.dll
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.DataAccess\bin\Debug\net5.0\Yeditepe.DataAccess.pdb
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.DataAccess\bin\Debug\net5.0\Yeditepe.Core.dll
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.DataAccess\bin\Debug\net5.0\Yeditepe.Entities.dll
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.DataAccess\bin\Debug\net5.0\Yeditepe.Entities.pdb
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.DataAccess\bin\Debug\net5.0\Yeditepe.Core.pdb
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.DataAccess\obj\Debug\net5.0\Yeditepe.DataAccess.csprojAssemblyReference.cache
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.DataAccess\obj\Debug\net5.0\Yeditepe.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.DataAccess\obj\Debug\net5.0\Yeditepe.DataAccess.AssemblyInfoInputs.cache
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.DataAccess\obj\Debug\net5.0\Yeditepe.DataAccess.AssemblyInfo.cs
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.DataAccess\obj\Debug\net5.0\Yeditepe.DataAccess.csproj.CoreCompileInputs.cache
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.DataAccess\obj\Debug\net5.0\Yeditepe.DataAccess.csproj.CopyComplete
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.DataAccess\obj\Debug\net5.0\Yeditepe.DataAccess.dll
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.DataAccess\obj\Debug\net5.0\ref\Yeditepe.DataAccess.dll
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.DataAccess\obj\Debug\net5.0\Yeditepe.DataAccess.pdb

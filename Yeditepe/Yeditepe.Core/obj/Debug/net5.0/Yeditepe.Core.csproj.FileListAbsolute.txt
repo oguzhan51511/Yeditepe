@@ -1,0 +1,14 @@
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.Core\bin\Debug\net5.0\Yeditepe.Core.deps.json
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.Core\bin\Debug\net5.0\Yeditepe.Core.runtimeconfig.json
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.Core\bin\Debug\net5.0\Yeditepe.Core.runtimeconfig.dev.json
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.Core\bin\Debug\net5.0\Yeditepe.Core.dll
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.Core\bin\Debug\net5.0\ref\Yeditepe.Core.dll
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.Core\bin\Debug\net5.0\Yeditepe.Core.pdb
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.Core\obj\Debug\net5.0\Yeditepe.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.Core\obj\Debug\net5.0\Yeditepe.Core.AssemblyInfoInputs.cache
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.Core\obj\Debug\net5.0\Yeditepe.Core.AssemblyInfo.cs
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.Core\obj\Debug\net5.0\Yeditepe.Core.csproj.CoreCompileInputs.cache
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.Core\obj\Debug\net5.0\Yeditepe.Core.dll
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.Core\obj\Debug\net5.0\ref\Yeditepe.Core.dll
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.Core\obj\Debug\net5.0\Yeditepe.Core.pdb
+D:\Project\Github\Yeditepe\Yeditepe\Yeditepe.Core\obj\Debug\net5.0\Yeditepe.Core.genruntimeconfig.cache
